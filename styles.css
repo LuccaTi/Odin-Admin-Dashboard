@@ -184,4 +184,20 @@ button:active {
   background-color: #e2e8f0;
   grid-column: 2 / 3;
   grid-row: 2 / 3;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.content-projects {
+  grid-column: 1 / 2;
+}
+
+.content-announcements {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+}
+
+.content-trending {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
 }
