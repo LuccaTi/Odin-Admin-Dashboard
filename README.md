@@ -1,6 +1,6 @@
 # Projeto: Admin Dashboard - The Odin Project
 
-Este é um projeto de um painel de controle (admin dashboard) desenvolvido como parte do currículo do 'The Odin Project'. 
+Este é um projeto de um painel de controle (admin dashboard) desenvolvido como parte do currículo do 'The Odin Project'. O curso fez a sugestão do projeto, mas o desenvolvimento foi 100% desenvolvido por mim. 
 
 ## Sobre o Projeto
 
